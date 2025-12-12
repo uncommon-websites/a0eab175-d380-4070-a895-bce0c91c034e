@@ -22,7 +22,7 @@
 	
 	<Testimonial 
 		label=""
-		quote="Foundation has transformed how we communicate with buyers. Our team saves hours every week, and buyers love having everything in one place. The referral rate has been incredible."
+		quote="“We've saved a tremendous amount of time and money, and now we can guarantee that our sales representatives will get the most up-to-date training in time.”"
 		authorName="Michael Chen"
 		authorRole="VP of Sales at Summit Homes"
 		authorImage="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=100&auto=format&fit=crop"
@@ -34,7 +34,7 @@
 	
 	<Testimonial 
 		label=""
-		quote="The white-label experience means our buyers think it's our own technology. Foundation handles all the backend work while we get the credit. It's been a game-changer for customer satisfaction."
+		quote="“Thanks to Sana, everyone in sales can access the foundational knowledge they need. The sales rep experience is much more engaging and collaborative now.”"
 		authorName="Sarah Martinez"
 		authorRole="Director of Customer Experience at Heritage Builders"
 		authorImage="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=100&auto=format&fit=crop"
@@ -46,3 +46,4 @@
 	<Contact />
 	<Footer />
 </main>
+

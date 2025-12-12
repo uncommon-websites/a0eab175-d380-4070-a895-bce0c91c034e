@@ -1,10 +1,10 @@
 <script>
 	const faqs = [
-		{ question: "Does Sana integrate with Salesforce or other CRMs?", open: false },
-		{ question: "Are the CRM integrations native or via API?", open: false },
-		{ question: "Can I record a pitch in Sana and get feedback or AI insights?", open: false },
-		{ question: "How can we offer just-in-time learning for the sales team?", open: false },
-		{ question: "Does Sana have CMS functionalities?", open: false }
+		{ question: "Does Foundation integrate with our existing CRM and ERP systems?", open: false },
+		{ question: "How does the white-label experience work?", open: false },
+		{ question: "What kind of implementation support do you provide?", open: false },
+		{ question: "Can we use Foundation if we already have a warranty portal?", open: false },
+		{ question: "How does the Owner Network drive referrals?", open: false }
 	];
 </script>
 
